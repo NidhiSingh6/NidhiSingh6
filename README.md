@@ -6,7 +6,7 @@
 
 
 - 💻 Currently learning and building projects with HTML, CSS, JavaScript, and React
-- 🎓 Graduate with a degree in Computer Science from Babu Banrasi Das Engineering College
+- 🎓 Graduate with a degree in Computer Science from Babu Banarasi Das Engineering College
 - 🛠️ Developing responsive and dynamic web applications
 -  📚 Constantly learning and improving my skills
 
